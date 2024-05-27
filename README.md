@@ -10,5 +10,3 @@ Integrante 2- Jorge Arroba. Imagen de la lista en orden descendente.
 Integrante 3- Ariel Villacrés. Imagen de los artistas antes de sus canciones.
 ![image](https://github.com/SDC202/Taller01-Ramas/assets/139426247/0b90e0d5-8b2d-4ba2-a072-c7a96d172db5)
 
-Lider Sebastián De Castro. Título cambiado a RadioTornado.
-
